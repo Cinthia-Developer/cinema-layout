@@ -93,13 +93,13 @@ header .row .col-8 p{
     height: 40px;
 }
 /*------------------estreno---------*/
-.estreno .row{
+.estreno {
     background-color: #cdb027;
-    height: 220px;
+    height: 240px;
 }
 .estreno .col-2 img{
-    height: 170px;
-    width: 140px;
+    height: 190px;
+    width: 170px;
     margin:20px;
 }
 
@@ -166,17 +166,18 @@ header .row .col-8 p{
 }
 
 /*------------footer------------*/
-
+footer{
+   background:#e8e3e6 ; 
+}
 footer .row{
     color: #c3bfc1;
     background:#e8e3e6 ;
     font-size: 20px;
-    padding-left:50px;
     height: 300px;
 }
 footer .row h3{
-    padding: 50px 500px 3px 50px;
-    font-size: 40px;
+    padding: 30px 500px 3px 30px;
+    font-size:35px;
 }
 footer .row p{
     padding-left: 30px;
