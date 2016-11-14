@@ -1,3 +1,5 @@
+/*--------------------header-------------*/
+
 .search-box .fa-search{  
     margin-left: -45px;
     color: darkgrey;
@@ -95,7 +97,7 @@ header .row .col-8 p{
 /*------------------estreno---------*/
 .estreno {
     background-color: #cdb027;
-    height: 240px;
+    height: 230px;
 }
 .estreno .col-2 img{
     height: 190px;
@@ -160,28 +162,27 @@ header .row .col-8 p{
 /*-----------cartelera-----------*/
 
 .cartelera .row .col-3 img{
-    width: 300px;
+    width: 250px;
     height: 300px;
     margin: 50px 0 40px 0;
 }
 
 /*------------footer------------*/
-footer{
-   background:#e8e3e6 ; 
-}
-footer .row{
+
+footer {
     color: #c3bfc1;
     background:#e8e3e6 ;
     font-size: 20px;
+    padding-left:0;
     height: 300px;
 }
-footer .row h3{
-    padding: 30px 500px 3px 30px;
-    font-size:35px;
+footer  h3{
+    padding: 20px 500px 3px 30px;
+    font-size: 40px;
 }
-footer .row p{
+footer p{
     padding-left: 30px;
 }
-footer .row h4{
+footer  h4{
     padding:  30px;
 }
