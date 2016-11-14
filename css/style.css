@@ -72,7 +72,7 @@ header .row .col-8 p{
 .hero .row .big .col-5 p{
     color: #c9c6b8;
 }
-.hero .row .big .col-5 input{
+.hero .row .big .col-5 .fa-youtube-play{
     border-radius: 3%;
     border:2px solid #cdb027;
     color: white;
@@ -82,6 +82,8 @@ header .row .col-8 p{
     margin: 10px auto 10px 0;
     width: 150px;
     height: 40px;
+    font-size: 14px;
+    text-align: left;
 }
 .hero .row .big .col-5 button{
     clear: both;
@@ -93,6 +95,8 @@ header .row .col-8 p{
     margin: 0 auto 10px 0;
     width: 150px;
     height: 40px;
+    text-align: left;
+    font-size: 14px;
 }
 /*------------------estreno---------*/
 .estreno {
@@ -101,8 +105,9 @@ header .row .col-8 p{
 }
 .estreno .col-2 img{
     height: 190px;
-    width: 170px;
-    margin:20px;
+    width: 160px;
+    margin:20px 10px 0;
+   
 }
 
 /*-----------------trailer----------*/
